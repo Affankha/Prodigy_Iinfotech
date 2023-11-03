@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    border: #000000 1px solid;
+    
+}
+.ar1{
+    border: 5%;
+    
+    offset-distance: 4%;
+}
+.h1{
+    background-image:url(HD-wallpaper-restaurant-drinking-house-food-black-beautiful-painting-luxury-blue-style.jpg);
+    background-size:35%;
+    color: yellow;
+    text-align: center;
+    height: 100%;
+    width: 100%;    
+ }
+ .img{
+    size: 100% 100%;
+ }
+
+.zam{
+    font-size: 170%;
+    
+}
+.zam:hover{
+    color: green;
+}
+.marque{
+    width: 100%;
+    text-decoration: black;
+}   
+.white{
+    color:black;
+    margin-right: 30px;
+    float: right;
+}
+.menu{
+    margin: none;
+    font: size 1000px;
+    border: solid ;width:90.4%;
+    padding: 40px;
+    background-color:gold;
+    color:green;
+    align-items: center;
+    text-align: center;                        
+}
+.table{
+    border: solid black 1px;
+    border-radius: 30px;
+    margin: 4% 5%;
+    background-color: rgb(58, 164, 85);
+    box-shadow: #000000;
+}
+.ta{
+    border:black;
+    padding: ;
+    text-align: center;
+    background-color:;
+    color:black;
+    margin: 1%;
+}
+#tab{
+    font-family: ;
+}
+#but{
+    color: black;
+    border: black solid 1px;
+    border-radius: 30px;
+    padding: 3%;
+    background-color: gold;
+}
+.art{
+    background-image: url(.jpg);
+    background-size: 100%;
+    background-color: oldlace;
+    border: 1px solid black;
+    display: flex;
+    color: white;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+}
+.navbar{
+            display: flex;
+            border: solid black 1px;
+            background-color:rgb(219, 181, 112);          
+}
+        .hhh{
+            
+            border: solid orange;background-color: red;color: white;
+            text-align: center;
+        }
+        .lal{
+            float: right;
+            margin-top: 30px;
+            margin-right: 50px;
+        }
+        article{
+            border:4px transparent;width: 200px;
+            color: black;
+            margin: 5px;
+        }
+        img{
+            /* padding: 14%; */
+        }
+        .aaaa{
+            text-align: center;
+        }
+        .ima{
+            display: flex;
+            float: inline-end;
+            align-items: right;
+            float: right;
+            border: solid red 3px;
+            border-radius: 50%;
+            color: green;
+        }
+        em:hover{
+                color: greenyellow;
+        }
+        h1{
+            float: center;
+            padding: 10%;
+            top: none;
+        }
+        footer{
+            background-color: rgba(188, 183, 183, 0.861);
+            color: black;
+            padding:16%;
+            
+        }
+        article{
+            border-radius: 10%;
+        }
+        
+        .food{
+            width: 100%;
+        }
+         p:hover{
+            background-color: red;
+            color: white;
+            
+         }
+    
+
+         .lal{
+            /* border: 1px solid orange; */
+            width: 100%;
+            float: right;
+        }
+        .a1{
+            border-radius: 50%;
+        }
+        .a2{
+            border-radius: 200%;
+        
+        }
+        .a3{
+            border-radius: 50%;
+        }
+        .a4{
+            border-radius: 50%;
+        }
+        .coverbody{
+            
+        }
+        .foot{
+            border: 1px;
+        }
+        .zamm{
+            background-color: black;
+            color:white;
+            padding: 4%;
+        }
+        
